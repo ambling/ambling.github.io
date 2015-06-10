@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hi, I am ambling!"
 date:   2015-06-10 21:14:53
 categories: jekyll update
 ---

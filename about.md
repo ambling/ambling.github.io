@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I am ambling. Welcome to my blog.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am now a Ph.D student at Zhejiang University, China. I am working and doing research on 
+the area of distributed data management.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am going to maintain some useful links, informations as well as some of my thoughts 
+that maybe useful to others on this site. 
+Hope you like it.
