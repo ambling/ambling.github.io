@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recommands
-permalink: /recommand/
+permalink: /recommands/
 ---
 
 ### Apache Spark
