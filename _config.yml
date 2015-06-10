@@ -1,0 +1,12 @@
+# Site settings
+title: Ambling's github page
+email: ambling07@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the personal page for ambling on github.io.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ambling.github.io" # the base hostname & protocol for your site
+twitter_username: AmblingDing
+github_username:  ambling
+
+# Build settings
+markdown: kramdown
