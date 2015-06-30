@@ -5,7 +5,7 @@ permalink: /recommands/
 ---
 
 ### Apache Spark
-- **Memory management:** 
+- ** Memory management ** 
 
 	- [APACHE SPARK : MEMORY MANAGEMENT AND GRACEFUL DEGRADATION](https://ogirardot.wordpress.com/2014/12/11/apache-spark-memory-management-and-graceful-degradation/)
 
@@ -14,7 +14,13 @@ permalink: /recommands/
 		2. **Cache-aware computation:** algorithms and data structures to exploit memory hierarchy.  
 		3. **Code generation:** using code generation to exploit modern compilers and CPUs.
 
+- ** Performance **
+
     - [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/), [How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
+
+    - [Top 3 Troubleshooting Tips To Keep You Sparking](https://engineering.sharethrough.com/blog/2013/09/13/top-3-troubleshooting-tips-to-keep-you-sparking/)
+
+- ** Tutorials **
 
     - [AMP Camp Big Data Bootcamps](http://ampcamp.berkeley.edu/big-data-mini-course/)
 
