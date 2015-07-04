@@ -28,4 +28,5 @@ permalink: /recommands/
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
 - [What every programmer should know about memory](http://lwn.net/Articles/250967/)
 
-
+### Python
+- [Understanding Python Decorators in 12 Easy Steps](https://dzone.com/articles/understanding-python)
