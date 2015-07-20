@@ -30,3 +30,6 @@ permalink: /recommands/
 
 ### Python
 - [Understanding Python Decorators in 12 Easy Steps](https://dzone.com/articles/understanding-python)
+
+### Distributed System
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
