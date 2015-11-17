@@ -14,6 +14,8 @@ permalink: /recommands/
 		2. **Cache-aware computation:** algorithms and data structures to exploit memory hierarchy.  
 		3. **Code generation:** using code generation to exploit modern compilers and CPUs.
 
+    - [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
+
 - **Performance**
 
     - [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/), [How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
