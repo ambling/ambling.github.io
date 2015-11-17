@@ -28,6 +28,8 @@ permalink: /recommands/
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
 - [What every programmer should know about memory](http://lwn.net/Articles/250967/)
 - [On Heap vs Off Heap Memory Usage](https://dzone.com/articles/heap-vs-heap-memory-usage)
+- [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
+- [Tips for Tuning the Garbage First Garbage Collector](http://www.infoq.com/articles/tuning-tips-G1-GC)
 
 ### Python
 - [Understanding Python Decorators in 12 Easy Steps](https://dzone.com/articles/understanding-python)
