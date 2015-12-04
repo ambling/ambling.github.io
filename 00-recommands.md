@@ -32,6 +32,7 @@ permalink: /recommands/
 - [On Heap vs Off Heap Memory Usage](https://dzone.com/articles/heap-vs-heap-memory-usage)
 - [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
 - [Tips for Tuning the Garbage First Garbage Collector](http://www.infoq.com/articles/tuning-tips-G1-GC)
+- [Garbage Collection Optimization for High-Throughput and Low-Latency Java Applications](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 - [Java Performance Tuning Guide: java.io.ByteArrayOutputStream](http://java-performance.info/java-io-bytearrayoutputstream/)
 - [Java Performance Tuning Guide: Performance of various methods of binary serialization in Java](http://java-performance.info/various-methods-of-binary-serialization-in-java/)
 
