@@ -42,5 +42,10 @@ permalink: /recommands/
 ### Distributed System
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
+### Git
+- [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [Git workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+- [Git Use Process by Ruan Yifent in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 
+
 ### Incredible Products/Sites
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
