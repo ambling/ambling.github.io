@@ -25,6 +25,7 @@ permalink: /recommands/
 - **Tutorials**
 
     - [AMP Camp Big Data Bootcamps](http://ampcamp.berkeley.edu/big-data-mini-course/)
+	- [How to log in Apache Spark](https://medium.com/@anicolaspp/how-to-log-in-apache-spark-f4204fad78a#.sekwmyngq)
 
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
@@ -41,6 +42,7 @@ permalink: /recommands/
 
 ### Distributed System
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [Four Really Real Meanings of Real-Time](http://bigdatapage.com/4-really-real-meanings-of-real-time/) 
 
 ### Git
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
