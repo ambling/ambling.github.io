@@ -49,5 +49,9 @@ permalink: /recommands/
 - [Git Workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [Git Use Process by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 
 
+### Other Tutorials
+- [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
+
 ### Incredible Products/Sites
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
+
