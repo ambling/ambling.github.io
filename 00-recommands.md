@@ -26,6 +26,7 @@ permalink: /recommands/
 
     - [AMP Camp Big Data Bootcamps](http://ampcamp.berkeley.edu/big-data-mini-course/)
 	- [How to log in Apache Spark](https://medium.com/@anicolaspp/how-to-log-in-apache-spark-f4204fad78a#.sekwmyngq)
+	- [Large-Scale Systems](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
 
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
