@@ -44,6 +44,7 @@ permalink: /recommands/
 ### Distributed System
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Four Really Real Meanings of Real-Time](http://bigdatapage.com/4-really-real-meanings-of-real-time/) 
+- [AN OVERVIEW OF APACHE STREAMING TECHNOLOGIES](https://databaseline.wordpress.com/2016/03/12/an-overview-of-apache-streaming-technologies/)
 
 ### Git
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
