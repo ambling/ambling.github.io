@@ -5,7 +5,7 @@ permalink: /recommands/
 ---
 
 ### Apache Spark
-- **Memory management** 
+- **Memory management**
 
 	- [APACHE SPARK : MEMORY MANAGEMENT AND GRACEFUL DEGRADATION](https://ogirardot.wordpress.com/2014/12/11/apache-spark-memory-management-and-graceful-degradation/)
 
@@ -43,17 +43,19 @@ permalink: /recommands/
 
 ### Distributed System
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-- [Four Really Real Meanings of Real-Time](http://bigdatapage.com/4-really-real-meanings-of-real-time/) 
+- [Four Really Real Meanings of Real-Time](http://bigdatapage.com/4-really-real-meanings-of-real-time/)
 - [AN OVERVIEW OF APACHE STREAMING TECHNOLOGIES](https://databaseline.wordpress.com/2016/03/12/an-overview-of-apache-streaming-technologies/)
+- [A BRIEF HISTORY OF APACHE STORM](http://hortonworks.com/blog/brief-history-apache-storm/)
+- [Understanding Consensus and Paxos in Distributed Systems](http://ifeanyi.co/posts/understanding-consensus/)
 
 ### Git
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Git Workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-- [Git Use Process by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 
+- [Git Use Process by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
 
 ### Other Tutorials
 - [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
 
 ### Incredible Products/Sites
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
-
+- [Hadoop Weekly](https://www.hadoopweekly.com/)
