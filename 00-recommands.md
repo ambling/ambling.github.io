@@ -62,3 +62,4 @@ permalink: /recommands/
 ### Incredible Products/Sites
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
 - [Hadoop Weekly](https://www.hadoopweekly.com/)
+- [The Morning Paper](https://blog.acolyer.org/)
