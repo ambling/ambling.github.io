@@ -23,8 +23,8 @@ permalink: /recommands/
     - [Top 3 Troubleshooting Tips To Keep You Sparking](https://engineering.sharethrough.com/blog/2013/09/13/top-3-troubleshooting-tips-to-keep-you-sparking/)
 
 - **Tutorials**
-
-    - [AMP Camp Big Data Bootcamps](http://ampcamp.berkeley.edu/big-data-mini-course/)
+  - [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
+  - [AMP Camp Big Data Bootcamps](http://ampcamp.berkeley.edu/big-data-mini-course/)
 	- [How to log in Apache Spark](https://medium.com/@anicolaspp/how-to-log-in-apache-spark-f4204fad78a#.sekwmyngq)
 	- [Large-Scale Systems](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
 
