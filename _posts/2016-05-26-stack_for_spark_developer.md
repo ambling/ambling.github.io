@@ -49,7 +49,7 @@ Without assumption of the reader's technical background, I will start with some 
   - Though easy to use, Scala is a complicated programming language. I learned Scala systematically through a [MOOC](https://www.coursera.org/learn/progfun1) by Martin Odersky, who is one of the language designers. Limited by my experience, I cannot recommend more materials about the language.
 - **sbt**
   - sbt is a very useful and advanced build tool for Scala and Java. It is more convenient to configure than Maven and makes the project containing a clear project structure. For a Spark developer, a knowledge of basic configurations and commands of sbt is enough.
-  - Easy Way: [A simple tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md), [Another simple one](http://grosdim.blogspot.tw/2013/01/quick-sbt-tutorial.html)
+  - Easy Way: [A simple tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md), [Another simple one](http://grosdim.blogspot.tw/2013/01/quick-sbt-tutorial.html), [Some plugins](Building Java Projects With Sbt)
   - Hard Way: [Official reference](http://www.scala-sbt.org/0.13/docs/index.html)
 - **Typesafe Config**
   - Typesafe Config is a useful configuration library for JVM-based languages, [docs on Github](https://github.com/typesafehub/config) is clear and comprehensive enough for users.
