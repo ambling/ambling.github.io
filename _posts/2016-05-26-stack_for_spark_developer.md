@@ -45,10 +45,16 @@ Without assumption of the reader's technical background, I will start with some 
   - Hard Way: [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html), [What every programmer should know about memory](http://lwn.net/Articles/250967/), [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All), [Tips for Tuning the Garbage First Garbage Collector](http://www.infoq.com/articles/tuning-tips-G1-GC)
 
 ## Scala
-- Language
-- sbt
-- Typesafe Config
-- scalatest
+- **Language**
+  - Though easy to use, Scala is a complicated programming language. I learned Scala systematically through a [MOOC](https://www.coursera.org/learn/progfun1) by Martin Odersky, who is one of the language designers. Limited by my experience, I cannot recommend more materials about the language.
+- **sbt**
+  - sbt is a very useful and advanced build tool for Scala and Java. It is more convenient to configure than Maven and makes the project containing a clear project structure. For a Spark developer, a knowledge of basic configurations and commands of sbt is enough.
+  - Easy Way: [A simple tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md), [Another simple one](http://grosdim.blogspot.tw/2013/01/quick-sbt-tutorial.html)
+  - Hard Way: [Official reference](http://www.scala-sbt.org/0.13/docs/index.html)
+- **Typesafe Config**
+  - Typesafe Config is a useful configuration library for JVM-based languages, [docs on Github](https://github.com/typesafehub/config) is clear and comprehensive enough for users.
+- **ScalaTest**
+  - ScalaTest is another advanced yet complicated tool in Scala stack. It enables various testing styles, and users can find their comfortable one to use. The [User guide](http://www.scalatest.org/user_guide) is fairly clear.
 
 ## Hadoop
 - Config
