@@ -55,11 +55,12 @@ permalink: /recommands/
 - [Git Workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [Git Use Process by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
 
-### Trajectory Data
+### About Trajectory Data
 - [All 1.1 Billion Taxi Rides on Redshift](http://tech.marksblogg.com/all-billion-nyc-taxi-rides-redshift.html)
 
-### Other Tutorials
+### Other Materials
 - [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
+- [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 
 ### Incredible Products/Sites
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
