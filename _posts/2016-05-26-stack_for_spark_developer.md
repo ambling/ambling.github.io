@@ -69,3 +69,5 @@ Without assumption of the reader's technical background, I will start with some 
 - Others
   - [How to Log in Apache Spark](https://www.mapr.com/blog/how-log-apache-spark)
   - [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
+- Examples
+  - [How-to: Analyze Fantasy Sports using Apache Spark and SQL](http://blog.cloudera.com/blog/2016/06/how-to-analyze-fantasy-sports-using-apache-spark-and-sql/)
