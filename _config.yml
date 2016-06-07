@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Powered by <a href='http://jekyllrb.com/'>jekyll</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ambling.github.io" # the base hostname & protocol for your site
-twitter_username: AmblingDing
+twitter_username: HiAmbling
 github_username:  Ambling
 
 # Build settings
