@@ -59,6 +59,7 @@ permalink: /recommands/
 - [All 1.1 Billion Taxi Rides on Redshift](http://tech.marksblogg.com/all-billion-nyc-taxi-rides-redshift.html)
 
 ### Other Materials
+- [Disrupting Big Data with Apache Spark in the Cloud](https://youtu.be/4uw_obRH5eM)
 - [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
 - [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 
