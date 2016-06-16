@@ -14,6 +14,8 @@ permalink: /recommands/
 		2. **Cache-aware computation:** algorithms and data structures to exploit memory hierarchy.  
 		3. **Code generation:** using code generation to exploit modern compilers and CPUs.
 
+  - [Deep Dive: Memory Management in Apache Spark](http://www.slideshare.net/databricks/deep-dive-memory-management-in-apache-spark)
+
     - [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 
 - **Performance**
