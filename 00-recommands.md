@@ -69,3 +69,4 @@ permalink: /recommands/
 - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
 - [Hadoop Weekly](https://www.hadoopweekly.com/)
 - [The Morning Paper](https://blog.acolyer.org/)
+- [The Wild Week in AI](http://www.wildml.com/newsletter/)
