@@ -52,6 +52,11 @@ permalink: /recommands/
 - [A BRIEF HISTORY OF APACHE STORM](http://hortonworks.com/blog/brief-history-apache-storm/)
 - [Understanding Consensus and Paxos in Distributed Systems](http://ifeanyi.co/posts/understanding-consensus/)
 
+### Machine Learning
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning](http://www.deeplearningbook.org/)
+
 ### Git
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Git Workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
