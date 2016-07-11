@@ -75,3 +75,6 @@ permalink: /recommands/
 - [Hadoop Weekly](https://www.hadoopweekly.com/)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [The Wild Week in AI](http://www.wildml.com/newsletter/)
+
+### Insights
+- [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
