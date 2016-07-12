@@ -57,16 +57,17 @@ Without assumption of the reader's technical background, I will start with some 
   - ScalaTest is another advanced yet complicated tool in Scala stack. It enables various testing styles, and users can find their comfortable one to use. The [User guide](http://www.scalatest.org/user_guide) is fairly clear.
 
 ## Hadoop
-- Config
-- basic
-- HDFS
+- HDFS commands: [Documentation](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
+- [The Definitive Guide (2nd Ed)](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf
+)
 
 ## Spark
-- Config
-- basic
-- RDD
-- Spark SQL
-- Others
+- [Documentation](http://spark.apache.org/docs/latest/)
+- RDD: [the paper](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf)
+- Spark SQL: [the paper](https://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf)
+- Tutorials
+  - [A two-and-a-half day tutorial](http://lintool.github.io/SparkTutorial/)
+  - [The Apache Spark Stack](http://www.spark-stack.org/getting-started/)
   - [How to Log in Apache Spark](https://www.mapr.com/blog/how-log-apache-spark)
   - [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
 - Examples
