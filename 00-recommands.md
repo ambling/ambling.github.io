@@ -32,6 +32,9 @@ permalink: /recommands/
   - [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
   - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)
 
+- **Others**
+  - [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets. When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
+
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
 - [What every programmer should know about memory](http://lwn.net/Articles/250967/)
