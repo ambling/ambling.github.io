@@ -35,6 +35,9 @@ permalink: /recommands/
 - **Others**
   - [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets. When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
 
+### Apache STORM
+- [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
+
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
 - [What every programmer should know about memory](http://lwn.net/Articles/250967/)
