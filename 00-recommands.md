@@ -34,6 +34,8 @@ permalink: /recommands/
 
 - **Others**
   - [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets. When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
+  - [Continuous Applications: Evolving Streaming in Apache Spark 2.0](https://databricks.com/blog/2016/07/28/continuous-applications-evolving-streaming-in-apache-spark-2-0.html)
+  - [Structured Streaming In Apache Spark](https://databricks.com/blog/2016/07/28/structured-streaming-in-apache-spark.html)
 
 ### Apache STORM
 - [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
@@ -86,3 +88,7 @@ permalink: /recommands/
 ### Insights
 - [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
 - [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
+
+### Tech Stack
+- [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
+- [THE UBER ENGINEERING TECH STACK, PART II: THE EDGE AND BEYOND](https://eng.uber.com/tech-stack-part-two/)
