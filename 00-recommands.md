@@ -37,8 +37,9 @@ permalink: /recommands/
   - [Continuous Applications: Evolving Streaming in Apache Spark 2.0](https://databricks.com/blog/2016/07/28/continuous-applications-evolving-streaming-in-apache-spark-2-0.html)
   - [Structured Streaming In Apache Spark](https://databricks.com/blog/2016/07/28/structured-streaming-in-apache-spark.html)
 
-### Apache STORM
+### Streaming
 - [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
+- [High-throughput, low-latency, and exactly-once stream processing with Apache Flink](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/)
 
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
