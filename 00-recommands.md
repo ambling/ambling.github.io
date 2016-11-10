@@ -40,6 +40,7 @@ permalink: /recommands/
 ### Streaming
 - [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
 - [High-throughput, low-latency, and exactly-once stream processing with Apache Flink](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/)
+- Comparison of Apache Stream Processing Frameworks: [Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1), [Part 2](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-2)
 
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
