@@ -41,6 +41,9 @@ permalink: /recommands/
 - [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
 - [High-throughput, low-latency, and exactly-once stream processing with Apache Flink](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/)
 - Comparison of Apache Stream Processing Frameworks: [Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1), [Part 2](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-2)
+- [Carrier Payments Big Data Pipeline using Apache Storm](https://www.paypal-engineering.com/2016/11/15/carrier-payments-big-data-pipeline-using-apache-storm/)
+- [Introduction to Apache Flink](https://www.mapr.com/ebooks/intro-to-apache-flink/)
+- [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner?](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
 
 ### JAVA
 - [Direct Memory Alignment in Java](http://psy-lob-saw.blogspot.jp/2013/01/direct-memory-alignment-in-java.html)
@@ -90,7 +93,9 @@ permalink: /recommands/
 ### Insights
 - [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
 - [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
+- BI & Analytics on a Data Lake: [Part 1](https://www.mapr.com/blog/bi-analytics-and-big-data-%E2%80%9C-ha%E2%80%9D-moment-part-1), [Part 2](https://www.mapr.com/blog/exploring-relationship-between-hadoop-and-data-warehouse-part-2)
 
 ### Tech Stack
 - [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
 - [THE UBER ENGINEERING TECH STACK, PART II: THE EDGE AND BEYOND](https://eng.uber.com/tech-stack-part-two/)
+- PayPal From Big Data to Fast Data: [Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/), [Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
