@@ -69,6 +69,7 @@ permalink: /recommands/
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Deep Learning](http://www.deeplearningbook.org/)
+- [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 
 ### Git
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
