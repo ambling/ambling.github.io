@@ -102,3 +102,7 @@ permalink: /recommands/
 - [THE UBER ENGINEERING TECH STACK, PART II: THE EDGE AND BEYOND](https://eng.uber.com/tech-stack-part-two/)
 - [How Uber Uses Spark and Hadoop to Optimize Customer Experience](https://www.datanami.com/2015/10/05/how-uber-uses-spark-and-hadoop-to-optimize-customer-experience/)
 - PayPal From Big Data to Fast Data: [Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/), [Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
+
+### Open Source
+- [Producing Open Source Software](http://producingoss.com/)
+- [Open Source Guides](https://opensource.guide/)
