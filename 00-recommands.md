@@ -64,6 +64,7 @@ permalink: /recommands/
 - [AN OVERVIEW OF APACHE STREAMING TECHNOLOGIES](https://databaseline.wordpress.com/2016/03/12/an-overview-of-apache-streaming-technologies/)
 - [A BRIEF HISTORY OF APACHE STORM](http://hortonworks.com/blog/brief-history-apache-storm/)
 - [Understanding Consensus and Paxos in Distributed Systems](http://ifeanyi.co/posts/understanding-consensus/)
+- [Inside Cloud Spanner and the CAP Theorem](https://cloudplatform.googleblog.com/2017/02/inside-Cloud-Spanner-and-the-CAP-Theorem.html)
 
 ### Machine Learning
 
