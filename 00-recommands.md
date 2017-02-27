@@ -31,6 +31,7 @@ permalink: /recommands/
 	- [Large-Scale Systems](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
   - [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
   - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)
+  - [Working with Complex Data Formats with Structured Streaming in Apache Spark 2.1](https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html)
 
 - **Others**
   - [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets. When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
@@ -97,6 +98,7 @@ permalink: /recommands/
 - [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
 - [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
 - BI & Analytics on a Data Lake: [Part 1](https://www.mapr.com/blog/bi-analytics-and-big-data-%E2%80%9C-ha%E2%80%9D-moment-part-1), [Part 2](https://www.mapr.com/blog/exploring-relationship-between-hadoop-and-data-warehouse-part-2)
+- [Hadoop Best Practices and Anti-Patterns](https://veekaybee.github.io/data-lake-talk/#/)
 
 ### Tech Stack
 - [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
