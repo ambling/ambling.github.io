@@ -37,6 +37,7 @@ permalink: /recommands/
   - [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets. When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
   - [Continuous Applications: Evolving Streaming in Apache Spark 2.0](https://databricks.com/blog/2016/07/28/continuous-applications-evolving-streaming-in-apache-spark-2-0.html)
   - [Structured Streaming In Apache Spark](https://databricks.com/blog/2016/07/28/structured-streaming-in-apache-spark.html)
+  - [Spark Architecture: Shuffle](https://0x0fff.com/spark-architecture-shuffle/)
 
 ### Streaming
 - [MICROBENCHMARKING APACHE STORM 1.0 PERFORMANCE](http://hortonworks.com/blog/microbenchmarking-storm-1-0-performance/)
@@ -108,7 +109,7 @@ permalink: /recommands/
 - PayPal From Big Data to Fast Data: [Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/), [Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
 
 ### Algorithms
-- [Algorithms and Data Structures](http://madhualgo.blogspot.co.nz/2017/01/350-problems.html) 
+- [Algorithms and Data Structures](http://madhualgo.blogspot.co.nz/2017/01/350-problems.html)
 
 ### Open Source
 - [Producing Open Source Software](http://producingoss.com/)
