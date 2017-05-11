@@ -101,6 +101,7 @@ permalink: /recommands/
 - [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
 - BI & Analytics on a Data Lake: [Part 1](https://www.mapr.com/blog/bi-analytics-and-big-data-%E2%80%9C-ha%E2%80%9D-moment-part-1), [Part 2](https://www.mapr.com/blog/exploring-relationship-between-hadoop-and-data-warehouse-part-2)
 - [Hadoop Best Practices and Anti-Patterns](https://veekaybee.github.io/data-lake-talk/#/)
+- [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go)
 
 ### Tech Stack
 - [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
