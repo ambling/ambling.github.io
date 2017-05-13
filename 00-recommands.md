@@ -91,7 +91,7 @@ permalink: /recommands/
 - [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 
 ### Incredible Products/Sites
-- [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/)
+<!-- - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/) -->
 - [Hadoop Weekly](https://www.hadoopweekly.com/)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [The Wild Week in AI](http://www.wildml.com/newsletter/)
