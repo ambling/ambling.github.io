@@ -83,6 +83,7 @@ permalink: /recommands/
 ### About Trajectory Data
 - [All 1.1 Billion Taxi Rides on Redshift](http://tech.marksblogg.com/all-billion-nyc-taxi-rides-redshift.html)
 - Monitoring Real-Time Uber Data Using Spark Machine Learning, Streaming, and the Kafka API. [part 1](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-1), [part 2](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2)
+- [DETECTING ABUSE AT SCALE: LOCALITY SENSITIVE HASHING AT UBER ENGINEERING](https://eng.uber.com/lsh/)
 
 ### Other Materials
 - [All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
