@@ -79,6 +79,7 @@ permalink: /recommands/
 - [Git Tutorial by Liao Xuefeng in Chinese](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Git Workflow by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [Git Use Process by Ruan Yifeng in Chinese](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
+- [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 
 ### About Trajectory Data
 - [All 1.1 Billion Taxi Rides on Redshift](http://tech.marksblogg.com/all-billion-nyc-taxi-rides-redshift.html)
@@ -96,6 +97,7 @@ permalink: /recommands/
 - [Hadoop Weekly](https://www.hadoopweekly.com/)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [The Wild Week in AI](http://www.wildml.com/newsletter/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 ### Insights
 - [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
@@ -103,6 +105,7 @@ permalink: /recommands/
 - BI & Analytics on a Data Lake: [Part 1](https://www.mapr.com/blog/bi-analytics-and-big-data-%E2%80%9C-ha%E2%80%9D-moment-part-1), [Part 2](https://www.mapr.com/blog/exploring-relationship-between-hadoop-and-data-warehouse-part-2)
 - [Hadoop Best Practices and Anti-Patterns](https://veekaybee.github.io/data-lake-talk/#/)
 - [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go)
+- [Enough with the microservices](https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html)
 
 ### Tech Stack
 - [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
