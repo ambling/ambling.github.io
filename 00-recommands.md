@@ -56,6 +56,7 @@ permalink: /recommands/
 - [Garbage Collection Optimization for High-Throughput and Low-Latency Java Applications](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 - [Java Performance Tuning Guide: java.io.ByteArrayOutputStream](http://java-performance.info/java-io-bytearrayoutputstream/)
 - [Java Performance Tuning Guide: Performance of various methods of binary serialization in Java](http://java-performance.info/various-methods-of-binary-serialization-in-java/)
+- [Compact Strings In Java 9](https://www.javagists.com/compact-strings-java-9)
 
 ### Python
 - [Understanding Python Decorators in 12 Easy Steps](https://dzone.com/articles/understanding-python)
@@ -86,19 +87,6 @@ permalink: /recommands/
 - Monitoring Real-Time Uber Data Using Spark Machine Learning, Streaming, and the Kafka API. [part 1](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-1), [part 2](https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2)
 - [DETECTING ABUSE AT SCALE: LOCALITY SENSITIVE HASHING AT UBER ENGINEERING](https://eng.uber.com/lsh/)
 
-### Other Materials
-- [All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
-- [Disrupting Big Data with Apache Spark in the Cloud](https://youtu.be/4uw_obRH5eM)
-- [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
-- [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
-
-### Incredible Products/Sites
-<!-- - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/) -->
-- [Hadoop Weekly](https://www.hadoopweekly.com/)
-- [The Morning Paper](https://blog.acolyer.org/)
-- [The Wild Week in AI](http://www.wildml.com/newsletter/)
-- [Software Engineering Daily](https://softwareengineeringdaily.com/)
-
 ### Insights
 - [Expert Interview Series: IBM’s Holden Karau on Hadoop, ETL, Machine Learning and the Future of Spark](http://blog.syncsort.com/2016/06/big-data/ibms-holden-karau-on-hadoop-etl-machine-learning-and-the-future-of-spark/), [Part 2](http://blog.syncsort.com/2016/06/big-data/expert-interview-series-ibms-holden-karau-hadoop-etl-machine-learning-future-spark-part-2/)
 - [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
@@ -106,6 +94,7 @@ permalink: /recommands/
 - [Hadoop Best Practices and Anti-Patterns](https://veekaybee.github.io/data-lake-talk/#/)
 - [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go)
 - [Enough with the microservices](https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html)
+- [Can your CTO still code?](https://www.recode.net/2017/6/15/15332486/cto-code-coding-skills-developer-education-engineer)
 
 ### Tech Stack
 - [THE UBER ENGINEERING TECH STACK, PART I: THE FOUNDATION](https://eng.uber.com/tech-stack-part-one/)
@@ -119,3 +108,24 @@ permalink: /recommands/
 ### Open Source
 - [Producing Open Source Software](http://producingoss.com/)
 - [Open Source Guides](https://opensource.guide/)
+
+### Serverless
+-[Serverless on Kubernetes with Soam Vasani](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/)
+
+### Management
+- [What to do when your startup needs program management](https://blog.intercom.com/what-to-do-when-your-startup-needs-program-management/)
+
+### Incredible Products/Sites
+<!-- - [Intelligent Travel Platform of Kuaidi & Didi Group](http://v.kuaidadi.com/) -->
+- [Hadoop Weekly](https://www.hadoopweekly.com/)
+- [The Morning Paper](https://blog.acolyer.org/)
+- [The Wild Week in AI](http://www.wildml.com/newsletter/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [freeCodeCamp](https://medium.freecodecamp.com/)
+
+### Other Materials
+- [All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
+- [Disrupting Big Data with Apache Spark in the Cloud](https://youtu.be/4uw_obRH5eM)
+- [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
+- [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
+- [Our 500+ engineers all use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
