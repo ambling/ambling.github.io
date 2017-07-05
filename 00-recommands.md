@@ -68,6 +68,7 @@ permalink: /recommands/
 - [A BRIEF HISTORY OF APACHE STORM](http://hortonworks.com/blog/brief-history-apache-storm/)
 - [Understanding Consensus and Paxos in Distributed Systems](http://ifeanyi.co/posts/understanding-consensus/)
 - [Inside Cloud Spanner and the CAP Theorem](https://cloudplatform.googleblog.com/2017/02/inside-Cloud-Spanner-and-the-CAP-Theorem.html)
+- [Introducing Cloud Dataflow Shuffle: For up to 5x performance improvement in data analytic pipelines](https://cloud.google.com/blog/big-data/2017/06/introducing-cloud-dataflow-shuffle-for-up-to-5x-performance-improvement-in-data-analytic-pipelines)
 
 ### Machine Learning
 
